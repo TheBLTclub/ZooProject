@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ZooConsole
+namespace ZooLibrary
 {
     class Program
     {
